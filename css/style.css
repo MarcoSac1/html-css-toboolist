@@ -54,3 +54,90 @@ h1{
     border-radius: 0 0 4px 4px;
     margin: auto;
 }
+ul{
+    padding-left: 2rem;
+    padding-bottom: 1.5rem;
+    list-style-type:none;
+    background-image: url(../img/arrow-down-icon-png-3.png);
+    background-position: 0 0;
+    background-size: 1.4rem 1.4rem;
+    background-repeat: no-repeat;
+    font-size: 20px;
+    font-weight: bold;
+}
+.done{
+    padding-left: 2rem;
+    padding-bottom: 1.2rem;
+    list-style-type:none;
+    background-image: url(../img/ceck\ mark.png);
+    background-position: 0 0;
+    background-size: 1.4rem 1.4rem;
+    background-repeat: no-repeat;
+}
+.undone{
+    padding-left: 2rem;
+    padding-bottom: 1.2rem;
+    list-style-type:none;
+    background-image: url(../img/x\ mark.png);
+    background-position: 0 0;
+    background-size: 1.4rem 1.4rem;
+    background-repeat: no-repeat;
+}
+.editorial{
+    background-color: lightblue;
+    color: white;
+    padding: .3rem;
+    border-radius: 15px;
+    height:3rem;
+    width: 3rem;
+    text-align: center;
+}
+.Q1{
+    background-color:palevioletred;
+    color: white;
+    padding: .3rem;
+    border-radius: 15px;
+    height:3rem;
+    width: 3rem;
+    text-align: center;
+}
+.Recruiting{
+    background-color:green;
+    color: white;
+    padding: .3rem;
+    border-radius: 15px;
+    height:3rem;
+    width: 3rem;
+    text-align: center;
+}
+.Mobile{
+    background-color:orange;
+    color: white;
+    padding: .3rem;
+    border-radius: 15px;
+    height:3rem;
+    width: 3rem;
+    text-align: center;
+}
+.Website{
+    background-color:mediumslateblue;
+    color: white;
+    padding: .3rem;
+    border-radius: 15px;
+    height:3rem;
+    width: 3rem;
+    text-align: center;
+}
+.Sales{
+    background-color:greenyellow;
+    color: white;
+    padding: .3rem;
+    border-radius: 15px;
+    height:3rem;
+    width: 3rem;
+    text-align: center;
+}
+li{
+    margin-bottom: 1.1rem;
+
+}
