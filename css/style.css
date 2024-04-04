@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: lightskyblue;
+}
+header{
+    background-color: white;
+    margin-bottom: 20px;
+}
+img{
+    height: 4rem;
+    margin: 2rem;
+    display: inline;
+    vertical-align: middle;
+}
+h1{
+    font-size: 3rem;
+    display: inline-block;
+    vertical-align:middle;
+}
+.buttonsection{
+    height: 80px;
+    max-width: 1000px;
+    background-color:white;
+    margin: auto;
+    border-radius: 4px;
+    margin-bottom: 5px;
+}
+.list{
+    max-width: 1000px;
+    background-color: white;
+    border-radius: 0 0 4px 4px;
+    margin: auto;
+}
