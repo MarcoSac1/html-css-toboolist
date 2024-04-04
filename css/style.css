@@ -92,6 +92,8 @@ ul{
     height:3rem;
     width: 3rem;
     text-align: center;
+    font-size: 14px;
+    margin-left: 5px;
 }
 .Q1{
     background-color:palevioletred;
@@ -101,6 +103,8 @@ ul{
     height:3rem;
     width: 3rem;
     text-align: center;
+    font-size: 14px;
+    margin-left: 5px;
 }
 .Recruiting{
     background-color:green;
@@ -110,6 +114,8 @@ ul{
     height:3rem;
     width: 3rem;
     text-align: center;
+    font-size: 14px;
+    margin-left: 5px;
 }
 .Mobile{
     background-color:orange;
@@ -119,6 +125,8 @@ ul{
     height:3rem;
     width: 3rem;
     text-align: center;
+    font-size: 14px;
+    margin-left: 5px;
 }
 .Website{
     background-color:mediumslateblue;
@@ -128,6 +136,8 @@ ul{
     height:3rem;
     width: 3rem;
     text-align: center;
+    font-size: 14px;
+    margin-left: 5px;
 }
 .Sales{
     background-color:greenyellow;
@@ -137,6 +147,8 @@ ul{
     height:3rem;
     width: 3rem;
     text-align: center;
+    font-size: 14px;
+    margin-left: 5px;
 }
 li{
     margin-bottom: 1.1rem;
