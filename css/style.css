@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: lightskyblue;
+    background-color: lightgray;
 }
 header{
     background-color: white;
@@ -22,12 +22,31 @@ h1{
     vertical-align:middle;
 }
 .buttonsection{
-    height: 80px;
     max-width: 1000px;
     background-color:white;
     margin: auto;
+    border-radius: 4px 4px 0 0;
+    margin-bottom: 3px;
+}
+.task{
+    background-color: lightblue;
+    color: white;
+    border: none;
+    padding: 6px 12px;
     border-radius: 4px;
-    margin-bottom: 5px;
+    display: inline-block;
+    vertical-align: bottom;
+    margin: 15px 10px ;
+}
+.section{
+    background-color:white;
+    color: lightblue;
+    padding: 6px 12px;
+    border-radius: 4px;
+    display: inline-block;
+    vertical-align: bottom;
+    margin: 15px 10px ;
+    border: 1.5px solid;
 }
 .list{
     max-width: 1000px;
